@@ -103,3 +103,13 @@ The `IntegerSet API` is a simple RESTful web service implemented using Python's 
      
 # Cloud Formation
 ![image](https://github.com/user-attachments/assets/941fb947-c198-46d4-b143-446d62b11451)
+
+
+# EC2 Instance
+![image](https://github.com/user-attachments/assets/22b02872-ce3d-445e-b9e6-d4d1004fc6ed)
+
+
+# Remote Server on VS code
+![image](https://github.com/user-attachments/assets/92804771-e805-47ae-ba95-473a60acb2ad)
+
+
