@@ -1,2 +1,2 @@
-# New-Git-Sync-Project
+# CloudFormation-PythonWebApp
 
