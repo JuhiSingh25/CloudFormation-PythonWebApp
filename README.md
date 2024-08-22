@@ -95,12 +95,11 @@ The `IntegerSet API` is a simple RESTful web service implemented using Python's 
           "itemId": 1
       }
       ```
-# Cloud Formation
-![image](https://github.com/user-attachments/assets/941fb947-c198-46d4-b143-446d62b11451)
-
-
       **Response:**
 
       - 200: Integer removed successfully
       - 404: Integer not found
       - 400: Error message if the `itemId` is invalid
+     
+# Cloud Formation
+![image](https://github.com/user-attachments/assets/941fb947-c198-46d4-b143-446d62b11451)
