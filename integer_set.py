@@ -1,11 +1,11 @@
 class IntegerSet:
     def __init__(self):
-        self.items_store = set()
+        self.items_store = []
 
     def add_item(self, item):
         if item in self.items_store:
             return {"status": "error", "message": "Item already exists"}, False
-        self.items_store.add(item)
+        self.items_store.append(item)
         return {"status": "success", "itemId": item, "message": "Item added successfully"}, True
 
     def has_item(self, item_id):
